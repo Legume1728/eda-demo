@@ -1,0 +1,10 @@
+/goodreads_dataset
+*.html
+*.pdf
+*.zip
+*.bk.py
+*.csv
+/venv
+.ipynb_checkpoints/
+*.bk.ipynb
+
